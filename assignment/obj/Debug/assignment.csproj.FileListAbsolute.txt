@@ -1,0 +1,6 @@
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.exe.config
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.exe
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.pdb
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.exe
+c:\users\hamma\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.pdb
